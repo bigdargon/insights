@@ -1,25 +1,17 @@
-# 📈 GitHub Hit Counter Template
- 
-Follow the instructions given in [github-hit-counter](https://github.com/gayanvoice/github-hit-counter) repository page.  You can follow how this is deployed in [gayanvoice/insights](https://github.com/gayanvoice/insights).
+## [:chart_with_upwards_trend: GitHub Insights](https://github.com/gayanvoice/github-insights)
+**GitHub Insights** (https://github.com/gayanvoice/github-insights) is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
+It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository. It is created and maintained by gayanvoice (https://github.com/gayanvoice).
+| Repository | Last Updated | Unique | Views |
+ | ---------- | ------------ | ------ | ----- |
+|[hostsVN](https://github.com/bigdargon/insights/tree/master/readme/139376543/week.md)|2021-06-14T00:00:00.000Z|553|<img alt="Response time graph" src="https://github.com/bigdargon/insights/raw/master/graph/139376543/small/week.png" height="20"> 1269|
 
-This action is written by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow me on [GitHub](https://github.com/gayanvoice), [Medium](https://medium.com/@gayanvoice) and [Twitter](https://twitter.com/gayanvoice).
+<small><i>Last updated on Thu Jun 17 2021 02:16:00 GMT+0000 (Coordinated Universal Time)</i></small>
 
-## Watch
-[![How to setup hit counter for your GitHub repositories](https://img.youtube.com/vi/LdYrV6VSfqY/0.jpg)](https://www.youtube.com/watch?v=LdYrV6VSfqY)
-
-## Setup
-
-### Step 1 - ⚡️ Create an repository from the template.
-
-### Step 2 - 🔒 Generate a *personal access token* with `repo` and `workflow` options.
-  
-### Step 3 - 🔑 Create the *repository secret* name `INSIGHTS_TOKEN` and paste *personal access token* in value.
-
-### Step 4 - 📄 Add list of repositories to `repository` in `config.json`.
-
-### Step 5 - 🟥 Run actions.
-
+[**Set up GitHub Insights for your repositories ↗️**](https://github.com/gayanvoice/github-insights)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
 ## 📄 License
-- Repository: [gayanvoice/github-hit-counter](https://github.com/gayanvoice/github-hit-counter)
-- Template - [gayanvoice/github-hit-counter-template](https://github.com/gayanvoice/github-hit-counter-template)
-- Code: [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- Powered by: [GitHub Insights ↗️](https://github.com/gayanvoice/github-insights)
+- Code: [MIT ↗️](./LICENSE) © [gayanvoice ↗️](https://github.com/gayanvoice)
+- Data in the `./cache` directory: [Open Database License ↗️](https://opendatacommons.org/licenses/odbl/1-0/)
