@@ -3,9 +3,9 @@
 It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository. It is created and maintained by gayanvoice (https://github.com/gayanvoice).
 | Repository | Last Updated | Unique | Views |
  | ---------- | ------------ | ------ | ----- |
-|[hostsVN](https://github.com/bigdargon/insights/tree/master/readme/139376543/week.md)|2021-06-14T00:00:00.000Z|553|<img alt="Response time graph" src="https://github.com/bigdargon/insights/raw/master/graph/139376543/small/week.png" height="20"> 1269|
+|[hostsVN](https://github.com/bigdargon/insights/tree/master/readme/139376543/week.md)|2021-06-15T00:00:00.000Z|591|<img alt="Response time graph" src="https://github.com/bigdargon/insights/raw/master/graph/139376543/small/week.png" height="20"> 1354|
 
-<small><i>Last updated on Thu Jun 17 2021 02:16:00 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Thu Jun 17 2021 06:13:38 GMT+0000 (Coordinated Universal Time)</i></small>
 
 [**Set up GitHub Insights for your repositories ↗️**](https://github.com/gayanvoice/github-insights)
 ## ⛔ DO NOT
