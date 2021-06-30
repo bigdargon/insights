@@ -26,18 +26,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/6/27 12:00 AM UTC
+			2021/6/28 12:00 AM UTC
 		</td>
 		<td>
-			1023
+			1060
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/bigdargon/insights/raw/master/graph/139376543/small/week.png" height="20"> 2340
+			<img alt="Response time graph" src="https://github.com/bigdargon/insights/raw/master/graph/139376543/small/week.png" height="20"> 2398
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/6/29 6:12 PM UTC</i></small>
+<small><i>Last updated on 2021/6/30 12:37 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
