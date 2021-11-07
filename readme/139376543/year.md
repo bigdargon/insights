@@ -24,10 +24,10 @@
 			<code>2021/11/1</code>
 		</td>
 		<td>
-			<code>182</code>
+			<code>192</code>
 		</td>
 		<td>
-			<code>369</code>
+			<code>385</code>
 		</td>
 	</tr>
 	<tr>
@@ -35,10 +35,10 @@
 			<code>2021/10/1</code>
 		</td>
 		<td>
-			<code>343</code>
+			<code>305</code>
 		</td>
 		<td>
-			<code>1084</code>
+			<code>971</code>
 		</td>
 	</tr>
 	<tr>
@@ -165,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/11/7 12:16 PM UTC</i></small>
+<small><i>Last updated on 2021/11/7 6:12 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
