@@ -1,8 +1,8 @@
 ## [🔙 insights](https://github.com/bigdargon/insights)
-| [**Week →**](https://github.com/bigdargon/insights/blob/master/readme/139376543/week.md) | [**Month →**](https://github.com/bigdargon/insights/blob/master/readme/139376543/month.md) | [**Year →**](https://github.com/bigdargon/insights/blob/master/readme/139376543/year.md) |
+| [**Week →**](https://github.com/bigdargon/insights/blob/master/readme/433271207/week.md) | [**Month →**](https://github.com/bigdargon/insights/blob/master/readme/433271207/month.md) | [**Year →**](https://github.com/bigdargon/insights/blob/master/readme/433271207/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [hostsVN](https://github.com/bigdargon/hostsVN)
-![Image of insights](https://github.com/bigdargon/insights/blob/master/graph/139376543/large/week.png)
+### :octocat: [bigdargon](https://github.com/bigdargon/bigdargon)
+![Image of insights](https://github.com/bigdargon/insights/blob/master/graph/433271207/large/week.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -35,10 +35,10 @@
 			<code>2021/11/29</code>
 		</td>
 		<td>
-			<code>27</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>48</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -46,10 +46,10 @@
 			<code>2021/11/28</code>
 		</td>
 		<td>
-			<code>16</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>40</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -57,10 +57,10 @@
 			<code>2021/11/27</code>
 		</td>
 		<td>
-			<code>28</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>90</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -68,10 +68,10 @@
 			<code>2021/11/26</code>
 		</td>
 		<td>
-			<code>34</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>73</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -79,10 +79,10 @@
 			<code>2021/11/25</code>
 		</td>
 		<td>
-			<code>33</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>54</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -90,10 +90,10 @@
 			<code>2021/11/24</code>
 		</td>
 		<td>
-			<code>21</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>51</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -101,10 +101,10 @@
 			<code>2021/11/23</code>
 		</td>
 		<td>
-			<code>18</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>32</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
@@ -114,14 +114,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of insights](https://github.com/bigdargon/insights/blob/master/svg/139376543/badge.svg)](https://github.com/bigdargon/insights/blob/master/readme/139376543/week.md)
+[![Image of insights](https://github.com/bigdargon/insights/blob/master/svg/433271207/badge.svg)](https://github.com/bigdargon/insights/blob/master/readme/433271207/week.md)
 ```readme
-[![Image of insights](https://github.com/bigdargon/insights/blob/master/svg/139376543/badge.svg)](https://github.com/bigdargon/insights/blob/master/readme/139376543/week.md)
+[![Image of insights](https://github.com/bigdargon/insights/blob/master/svg/433271207/badge.svg)](https://github.com/bigdargon/insights/blob/master/readme/433271207/week.md)
 ```
 ### Header
-# hostsVN [<img alt="Image of insights" src="https://github.com/bigdargon/insights/blob/master/graph/139376543/small/week.png" height="20">](https://github.com/bigdargon/insights/blob/master/readme/139376543/week.md)
+# bigdargon [<img alt="Image of insights" src="https://github.com/bigdargon/insights/blob/master/graph/433271207/small/week.png" height="20">](https://github.com/bigdargon/insights/blob/master/readme/433271207/week.md)
 ```readme
-# hostsVN [<img alt="Image of insights" src="https://github.com/bigdargon/insights/blob/master/graph/139376543/small/week.png" height="20">](https://github.com/bigdargon/insights/blob/master/readme/139376543/week.md)
+# bigdargon [<img alt="Image of insights" src="https://github.com/bigdargon/insights/blob/master/graph/433271207/small/week.png" height="20">](https://github.com/bigdargon/insights/blob/master/readme/433271207/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

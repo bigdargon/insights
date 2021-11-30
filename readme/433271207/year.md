@@ -1,8 +1,8 @@
 ## [🔙 insights](https://github.com/bigdargon/insights)
-| [**Week →**](https://github.com/bigdargon/insights/blob/master/readme/139376543/week.md) | [**Month →**](https://github.com/bigdargon/insights/blob/master/readme/139376543/month.md) | [**Year →**](https://github.com/bigdargon/insights/blob/master/readme/139376543/year.md) |
+| [**Week →**](https://github.com/bigdargon/insights/blob/master/readme/433271207/week.md) | [**Month →**](https://github.com/bigdargon/insights/blob/master/readme/433271207/month.md) | [**Year →**](https://github.com/bigdargon/insights/blob/master/readme/433271207/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [hostsVN](https://github.com/bigdargon/hostsVN)
-![Image of insights](https://github.com/bigdargon/insights/blob/master/graph/139376543/large/year.png)
+### :octocat: [bigdargon](https://github.com/bigdargon/bigdargon)
+![Image of insights](https://github.com/bigdargon/insights/blob/master/graph/433271207/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -24,10 +24,10 @@
 			<code>2021/11/1</code>
 		</td>
 		<td>
-			<code>465</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>992</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -35,10 +35,10 @@
 			<code>2021/10/1</code>
 		</td>
 		<td>
-			<code>84</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>364</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -46,10 +46,10 @@
 			<code>2021/9/1</code>
 		</td>
 		<td>
-			<code>133</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>240</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -57,10 +57,10 @@
 			<code>2021/8/1</code>
 		</td>
 		<td>
-			<code>137</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>275</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -68,10 +68,10 @@
 			<code>2021/7/1</code>
 		</td>
 		<td>
-			<code>104</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>187</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -79,10 +79,10 @@
 			<code>2021/6/1</code>
 		</td>
 		<td>
-			<code>107</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>212</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -169,14 +169,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of insights](https://github.com/bigdargon/insights/blob/master/svg/139376543/badge.svg)](https://github.com/bigdargon/insights/blob/master/readme/139376543/week.md)
+[![Image of insights](https://github.com/bigdargon/insights/blob/master/svg/433271207/badge.svg)](https://github.com/bigdargon/insights/blob/master/readme/433271207/week.md)
 ```readme
-[![Image of insights](https://github.com/bigdargon/insights/blob/master/svg/139376543/badge.svg)](https://github.com/bigdargon/insights/blob/master/readme/139376543/week.md)
+[![Image of insights](https://github.com/bigdargon/insights/blob/master/svg/433271207/badge.svg)](https://github.com/bigdargon/insights/blob/master/readme/433271207/week.md)
 ```
 ### Header
-# hostsVN [<img alt="Image of insights" src="https://github.com/bigdargon/insights/blob/master/graph/139376543/small/week.png" height="20">](https://github.com/bigdargon/insights/blob/master/readme/139376543/week.md)
+# bigdargon [<img alt="Image of insights" src="https://github.com/bigdargon/insights/blob/master/graph/433271207/small/week.png" height="20">](https://github.com/bigdargon/insights/blob/master/readme/433271207/week.md)
 ```readme
-# hostsVN [<img alt="Image of insights" src="https://github.com/bigdargon/insights/blob/master/graph/139376543/small/week.png" height="20">](https://github.com/bigdargon/insights/blob/master/readme/139376543/week.md)
+# bigdargon [<img alt="Image of insights" src="https://github.com/bigdargon/insights/blob/master/graph/433271207/small/week.png" height="20">](https://github.com/bigdargon/insights/blob/master/readme/433271207/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
