@@ -21,13 +21,24 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2022/3/31</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2022/3/30</code>
 		</td>
 		<td>
-			<code>54</code>
+			<code>65</code>
 		</td>
 		<td>
-			<code>98</code>
+			<code>145</code>
 		</td>
 	</tr>
 	<tr>
@@ -96,21 +107,10 @@
 			<code>148</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2022/3/23</code>
-		</td>
-		<td>
-			<code>63</code>
-		</td>
-		<td>
-			<code>116</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2022/3/30 6:15 PM UTC</i></small>
+<small><i>Last updated on 2022/3/31 12:54 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
