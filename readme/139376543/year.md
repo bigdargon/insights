@@ -24,10 +24,10 @@
 			<code>2023/9/1</code>
 		</td>
 		<td>
-			<code>382</code>
+			<code>386</code>
 		</td>
 		<td>
-			<code>1103</code>
+			<code>1145</code>
 		</td>
 	</tr>
 	<tr>
@@ -35,10 +35,10 @@
 			<code>2023/8/1</code>
 		</td>
 		<td>
-			<code>284</code>
+			<code>280</code>
 		</td>
 		<td>
-			<code>771</code>
+			<code>767</code>
 		</td>
 	</tr>
 	<tr>
@@ -165,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/9/10 6:11 PM UTC</i></small>
+<small><i>Last updated on 2023/9/11 12:46 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
