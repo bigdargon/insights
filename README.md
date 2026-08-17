@@ -35,25 +35,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/bigdargon/insights/raw/master/graph/433271207/small/week.png" height="20"> 127
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/bigdargon/insights/tree/master/readme/139376543/week.md">
-				hostsVN
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:00 AM UTC
-		</td>
-		<td>
-			100577
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/bigdargon/insights/raw/master/graph/139376543/small/week.png" height="20"> 208169
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/17 12:34 PM UTC</i></small>
+<small><i>Last updated on 2026/8/17 6:31 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
