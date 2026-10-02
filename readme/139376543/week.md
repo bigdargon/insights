@@ -96,21 +96,10 @@
 			<code>64</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2026/9/25</code>
-		</td>
-		<td>
-			<code>43</code>
-		</td>
-		<td>
-			<code>85</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2026/10/2 11:46 AM UTC</i></small>
+<small><i>Last updated on 2026/10/2 5:19 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
